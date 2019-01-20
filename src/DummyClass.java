@@ -9,4 +9,8 @@ public class DummyClass {
     public static void sayHi(String name) {
         System.out.println("Hi, " + name);
     }
+
+    public static void sayBye() {
+        //Say bye-bye
+    }
 }
