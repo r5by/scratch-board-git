@@ -10,7 +10,11 @@ public class DummyClass {
         System.out.println("Hi, " + name);
     }
 
-    public static void sayBye() {
-        //Say bye-bye
+    public static void say() {
+        System.out.println("dev feature on v2, conflicts with master");
+    }
+
+    public static void devSay() {
+        //new feature
     }
 }
