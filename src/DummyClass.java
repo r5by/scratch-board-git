@@ -13,6 +13,10 @@ public class DummyClass {
     }
 
     public static void say() {
-        out.println("master feature on version 2");
+        System.out.println("dev feature on v2, conflicts with master");
+    }
+
+    public static void devSay() {
+        //new feature
     }
 }
