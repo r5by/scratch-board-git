@@ -5,4 +5,7 @@
 
 public class DevDummy {
     //Dev branch new feature
+    public void afterMergeNewFeature() {
+        //after merge new features added
+    }
 }
