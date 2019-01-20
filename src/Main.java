@@ -10,5 +10,10 @@ public class Main {
         int j = 1;
 
         System.out.println(i+j);
+        //End V-1
+
+        //Version-2
+        DummyClass.sayHi("tommy");
+        //End V-2
     }
 }
