@@ -1,3 +1,5 @@
+import static java.lang.System.out;
+
 /**
  * Dummy Class introduced from version 2
  *
@@ -7,10 +9,10 @@
 
 public class DummyClass {
     public static void sayHi(String name) {
-        System.out.println("Hi, " + name);
+        out.println("Hi, " + name);
     }
 
-    public static void sayBye() {
-        //Say bye-bye
+    public static void say() {
+        out.println("master feature on version 2");
     }
 }
