@@ -12,8 +12,8 @@ public class Main {
         System.out.println(i+j);
         //End V-1
 
-        //Version-2
-        DummyClass.sayHi("tommy");
+        //hotfix for cherry pick
+        DummyClass.sayHi("Rocky");
         //End V-2
     }
 }
